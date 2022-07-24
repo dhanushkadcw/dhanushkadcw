@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhanushkadcw
 - 👀 I’m interested in Python, java and also in machine learning.
 - 🌱 I’m currently learning at University of Moratuwa,Sri Lanka.
-- 💞️ I’m looking to collaborate on Python and java learners. And also with companies.
+- 💞️ I’m looking to collaborate on Python and java learners. And also companies.
 - 📫 How to reach me ...
 
 <!---
